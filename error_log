@@ -1,0 +1,433 @@
+[18-Nov-2021 17:39:20 UTC] PHP Warning:  include(config/check_cookie.php): failed to open stream: No such file or directory in /home/dpc3ytmm6txa/public_html/index.php on line 3
+[18-Nov-2021 17:39:20 UTC] PHP Warning:  include(config/check_cookie.php): failed to open stream: No such file or directory in /home/dpc3ytmm6txa/public_html/index.php on line 3
+[18-Nov-2021 17:39:20 UTC] PHP Warning:  include(): Failed opening 'config/check_cookie.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dpc3ytmm6txa/public_html/index.php on line 3
+[18-Nov-2021 17:44:46 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'kylezagado'@'184.168.116.165' to database 'secret-message' in /home/dpc3ytmm6txa/public_html/config/database.php on line 8
+[18-Nov-2021 17:44:46 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'kylezagado'@'184.168.116.165' to database 'secret-message' in /home/dpc3ytmm6txa/public_html/config/database.php on line 8
+[18-Nov-2021 17:46:06 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[18-Nov-2021 17:46:06 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[18-Nov-2021 17:46:06 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 218
+[18-Nov-2021 17:46:07 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[18-Nov-2021 17:46:07 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[18-Nov-2021 17:46:07 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 218
+[18-Nov-2021 17:46:15 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[18-Nov-2021 17:46:15 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[18-Nov-2021 17:46:15 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 218
+[18-Nov-2021 17:46:28 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[18-Nov-2021 17:46:28 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[18-Nov-2021 17:46:28 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 218
+[18-Nov-2021 23:36:20 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[18-Nov-2021 23:36:20 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[18-Nov-2021 23:36:20 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 218
+[19-Nov-2021 00:09:53 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[19-Nov-2021 00:09:53 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[19-Nov-2021 00:09:53 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 218
+[19-Nov-2021 00:18:17 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[19-Nov-2021 00:18:17 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[19-Nov-2021 00:18:17 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 218
+[19-Nov-2021 05:04:30 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[19-Nov-2021 05:04:30 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[19-Nov-2021 05:04:30 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 218
+[19-Nov-2021 05:04:30 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[19-Nov-2021 05:04:30 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[19-Nov-2021 05:04:30 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 218
+[19-Nov-2021 05:04:31 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[19-Nov-2021 05:04:31 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[19-Nov-2021 05:04:31 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 218
+[19-Nov-2021 05:04:32 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[19-Nov-2021 05:04:32 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[19-Nov-2021 05:04:32 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 218
+[19-Nov-2021 05:04:38 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[19-Nov-2021 05:04:38 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[19-Nov-2021 05:04:38 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 218
+[19-Nov-2021 05:10:58 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[19-Nov-2021 05:10:58 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[19-Nov-2021 05:10:58 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 218
+[19-Nov-2021 05:24:09 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[19-Nov-2021 05:24:09 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[19-Nov-2021 05:24:09 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 218
+[19-Nov-2021 05:42:55 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[19-Nov-2021 05:42:55 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[19-Nov-2021 05:42:55 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 218
+[19-Nov-2021 05:43:05 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[19-Nov-2021 05:43:05 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[19-Nov-2021 05:43:05 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 218
+[19-Nov-2021 05:43:16 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[19-Nov-2021 05:43:16 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[19-Nov-2021 05:43:16 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 218
+[19-Nov-2021 05:46:41 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[19-Nov-2021 05:46:41 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[19-Nov-2021 05:46:41 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 218
+[19-Nov-2021 05:47:12 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[19-Nov-2021 05:47:12 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[19-Nov-2021 05:47:12 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 218
+[19-Nov-2021 05:47:33 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[19-Nov-2021 05:47:33 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[19-Nov-2021 05:47:33 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 218
+[19-Nov-2021 05:47:34 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[19-Nov-2021 05:47:34 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[19-Nov-2021 05:47:34 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 218
+[19-Nov-2021 05:48:36 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[19-Nov-2021 05:48:36 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[19-Nov-2021 05:48:36 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 218
+[19-Nov-2021 07:10:27 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[19-Nov-2021 07:10:27 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[19-Nov-2021 07:10:27 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 218
+[19-Nov-2021 07:16:45 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[19-Nov-2021 07:16:45 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[19-Nov-2021 07:16:45 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 218
+[19-Nov-2021 07:17:02 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[19-Nov-2021 07:17:02 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[19-Nov-2021 07:17:02 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 218
+[19-Nov-2021 14:25:04 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[19-Nov-2021 14:43:04 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[19-Nov-2021 14:51:33 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[19-Nov-2021 17:07:18 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[19-Nov-2021 17:07:18 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[19-Nov-2021 17:07:18 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 220
+[19-Nov-2021 17:46:40 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[19-Nov-2021 17:46:40 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[19-Nov-2021 17:46:40 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 220
+[19-Nov-2021 17:47:01 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[19-Nov-2021 17:47:01 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 168
+[19-Nov-2021 17:47:01 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 220
+[19-Nov-2021 17:59:06 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[19-Nov-2021 17:59:06 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 180
+[19-Nov-2021 17:59:06 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 232
+[19-Nov-2021 18:00:45 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[19-Nov-2021 18:00:45 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 180
+[19-Nov-2021 18:00:45 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 232
+[20-Nov-2021 03:31:47 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 34
+[20-Nov-2021 03:31:47 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 41
+[20-Nov-2021 03:31:47 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 53
+[20-Nov-2021 03:31:47 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 173
+[20-Nov-2021 03:31:47 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 174
+[20-Nov-2021 03:31:47 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 175
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 34
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 41
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 53
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 173
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 174
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 175
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 34
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 41
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 53
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 173
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 174
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 175
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 34
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 41
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 53
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 173
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 174
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 175
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 34
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 41
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 53
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 173
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 174
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 175
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 34
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 41
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 53
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 173
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 174
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 175
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 34
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 41
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 53
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 173
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 174
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 175
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 34
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 41
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 53
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 173
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 174
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 175
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 34
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 41
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 53
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 173
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 174
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 175
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 34
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 41
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 53
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 173
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 174
+[20-Nov-2021 03:31:50 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 175
+[20-Nov-2021 07:05:23 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/SecretMessageRequest.php on line 86
+[20-Nov-2021 07:05:23 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/SecretMessageRequest.php on line 92
+[20-Nov-2021 07:05:27 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/SecretMessageRequest.php on line 86
+[20-Nov-2021 07:05:27 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/SecretMessageRequest.php on line 92
+[20-Nov-2021 16:14:29 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[20-Nov-2021 16:14:29 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 180
+[20-Nov-2021 16:14:29 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 232
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 34
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 41
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 53
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 173
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 174
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 175
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 34
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 41
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 53
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 173
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 174
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 175
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 34
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 41
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 53
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 173
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 174
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 175
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 34
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 41
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 53
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 173
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 174
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 175
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 34
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 41
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 53
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 173
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 174
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 175
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 34
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 41
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 53
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 173
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 174
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 175
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 34
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 41
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 53
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 173
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 174
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 175
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 34
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 41
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 53
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 173
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 174
+[20-Nov-2021 17:05:33 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 175
+[20-Nov-2021 17:06:36 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 34
+[20-Nov-2021 17:06:36 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 41
+[20-Nov-2021 17:06:36 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 53
+[20-Nov-2021 17:06:36 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 173
+[20-Nov-2021 17:06:36 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 174
+[20-Nov-2021 17:06:36 UTC] PHP Notice:  Undefined variable: name in /home/dpc3ytmm6txa/public_html/secret_message.php on line 175
+[21-Nov-2021 03:09:50 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[21-Nov-2021 03:09:50 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 64
+[21-Nov-2021 03:09:50 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 116
+[21-Nov-2021 03:10:35 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[21-Nov-2021 03:10:35 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 64
+[21-Nov-2021 03:10:35 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 116
+[21-Nov-2021 03:33:48 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[21-Nov-2021 03:33:48 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 64
+[21-Nov-2021 03:33:48 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 116
+[21-Nov-2021 05:04:07 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[21-Nov-2021 05:04:07 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 64
+[21-Nov-2021 05:04:07 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 116
+[21-Nov-2021 05:04:09 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[21-Nov-2021 05:04:09 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 64
+[21-Nov-2021 05:04:09 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 116
+[21-Nov-2021 05:04:13 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[21-Nov-2021 05:04:13 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 64
+[21-Nov-2021 05:04:13 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 116
+[21-Nov-2021 05:09:47 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[21-Nov-2021 05:09:47 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 64
+[21-Nov-2021 05:09:47 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 116
+[21-Nov-2021 08:14:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[21-Nov-2021 08:25:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[21-Nov-2021 09:37:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[21-Nov-2021 10:12:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[21-Nov-2021 18:53:37 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[21-Nov-2021 18:53:37 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 64
+[21-Nov-2021 18:53:37 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 116
+[21-Nov-2021 22:32:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[23-Nov-2021 15:32:13 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[23-Nov-2021 15:32:13 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 64
+[23-Nov-2021 15:32:13 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 116
+[23-Nov-2021 15:32:14 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[23-Nov-2021 15:32:14 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 64
+[23-Nov-2021 15:32:14 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 116
+[23-Nov-2021 16:59:07 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[23-Nov-2021 16:59:07 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 64
+[23-Nov-2021 16:59:07 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 116
+[23-Nov-2021 18:35:06 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[23-Nov-2021 18:35:06 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 64
+[23-Nov-2021 18:35:06 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 116
+[23-Nov-2021 18:57:57 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[23-Nov-2021 18:57:57 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 57
+[23-Nov-2021 18:57:57 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 109
+[24-Nov-2021 00:28:39 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[24-Nov-2021 00:28:39 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 57
+[24-Nov-2021 00:28:39 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 109
+[24-Nov-2021 01:37:38 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[24-Nov-2021 01:37:38 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 57
+[24-Nov-2021 01:37:38 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 109
+[24-Nov-2021 01:37:51 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[24-Nov-2021 01:37:51 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 57
+[24-Nov-2021 01:37:51 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 109
+[24-Nov-2021 11:52:04 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[24-Nov-2021 11:52:04 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 57
+[24-Nov-2021 11:52:04 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 109
+[25-Nov-2021 00:24:19 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[25-Nov-2021 00:24:19 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 57
+[25-Nov-2021 00:24:19 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 109
+[27-Nov-2021 00:35:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[27-Nov-2021 00:35:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[29-Nov-2021 11:58:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[29-Nov-2021 13:03:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[29-Nov-2021 16:31:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[30-Nov-2021 06:17:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[30-Nov-2021 06:17:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[30-Nov-2021 06:18:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[02-Dec-2021 08:42:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[03-Dec-2021 23:04:13 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[03-Dec-2021 23:04:13 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 57
+[03-Dec-2021 23:04:13 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 109
+[04-Dec-2021 20:56:32 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[04-Dec-2021 20:56:32 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 57
+[04-Dec-2021 20:56:32 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 109
+[04-Dec-2021 23:06:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[04-Dec-2021 23:07:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[09-Dec-2021 05:35:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[10-Dec-2021 09:39:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[11-Dec-2021 02:13:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[16-Dec-2021 03:30:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[19-Dec-2021 03:16:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[25-Dec-2021 13:11:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[25-Dec-2021 13:11:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[02-Jan-2022 04:56:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[05-Jan-2022 14:21:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[05-Jan-2022 14:21:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[05-Jan-2022 14:23:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[08-Jan-2022 12:30:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[08-Jan-2022 12:30:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[08-Jan-2022 12:33:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[20-Jan-2022 10:15:29 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[20-Jan-2022 10:15:29 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 57
+[20-Jan-2022 10:15:29 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 109
+[22-Jan-2022 18:20:08 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[22-Jan-2022 18:20:08 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 57
+[22-Jan-2022 18:20:08 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 109
+[31-Jan-2022 07:08:55 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[31-Jan-2022 07:08:55 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 57
+[31-Jan-2022 07:08:55 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 109
+[31-Jan-2022 07:09:07 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[31-Jan-2022 07:09:07 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 57
+[31-Jan-2022 07:09:07 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 109
+[31-Jan-2022 07:09:16 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[31-Jan-2022 07:09:16 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 57
+[31-Jan-2022 07:09:16 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 109
+[31-Jan-2022 07:12:56 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[31-Jan-2022 07:12:56 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 57
+[31-Jan-2022 07:12:56 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 109
+[31-Jan-2022 08:18:51 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[31-Jan-2022 08:18:51 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 57
+[31-Jan-2022 08:18:51 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 109
+[31-Jan-2022 08:21:11 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[31-Jan-2022 08:21:11 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 57
+[31-Jan-2022 08:21:11 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 109
+[17-Feb-2022 03:20:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/dpc3ytmm6txa/public_html/secret_message.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dpc3ytmm6txa/public_html/secret_message.php on line 12
+[24-May-2022 23:22:20 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[24-May-2022 23:22:20 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 57
+[24-May-2022 23:22:20 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 109
+[24-May-2022 23:22:21 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 11
+[24-May-2022 23:22:21 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 57
+[24-May-2022 23:22:21 UTC] PHP Notice:  Undefined index: secret-message-id in /home/dpc3ytmm6txa/public_html/redirect_message.php on line 109
